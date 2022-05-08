@@ -10,7 +10,7 @@ title: ARAÇÁ
 header:
   overlay_image: /assets/images/forest.jpg
 excerpt: >
-  <u>A</u>tlantic forest <u>R</u>esearch <u>A</u>nd <u>C</u>onservation <u>A</u>lliance
+  <b>A</b>tlantic forest <b>R</b>esearch <b>A</b>nd <b>C</b>onservation <b>A</b>lliance
 gallery:
   - image_path: /assets/images/gallery-1.jpg
     alt: "Sitio Bacchus"
@@ -29,7 +29,7 @@ gallery:
 {% include video id="707058132" provider="vimeo" %}
 
 ## ARAÇÁ
-Atlantic forest Research And Conservation Alliance
+<b>A</b>tlantic forest <b>R</b>esearch <b>A</b>nd <b>C</b>onservation <b>A</b>lliance
 
 The Atlantic forest Research And Conservation Alliance (ARAÇÁ) is a not-for-profit scientific partnership centred on Sitio Bacchus, a privately-owned reserve near Nova Friburgo (Rio de Janeiro, Brazil). See the exact location [here](https://goo.gl/maps/MCzsNeSG9M63zWpN9).
 
@@ -37,7 +37,7 @@ Our aim is to unlock knowledge in a megadiverse nucleus of Brazil’s Atlantic R
 
 To do this, we will establish partnerships with local and international collaborators and researchers to collect baseline knowledge of all biodiversity on the site and conduct short- and long-term research projects, monitoring programmes and conservation initiatives. 
 
-One of the first initiatives is participation in the Project Lifeplan – A Planetary Inventory of Life, which aims to become the most ambitious, globally distributed and systematically collected data set to date on a broad range of taxonomical groups. Additional projects are being developed by our team and we are also open to new proposals and expressions of interest to collaborate. 
+One of the first initiatives is participation in the Project [LIFEPLAN](https://www2.helsinki.fi/en/projects/lifeplan) – A Planetary Inventory of Life, which aims to become the most ambitious, globally distributed and systematically collected data set to date on a broad range of taxonomical groups. Additional projects are being developed by our team and we are also open to new proposals and expressions of interest to collaborate. 
 
 It is early days for this project (which began in January 2022) and we will further develop this homepage and its contents over time. 
 
