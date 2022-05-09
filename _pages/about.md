@@ -17,7 +17,7 @@ In January 2022 we organised a first workshop to bring together interested resea
 * Augusto Rosa (State University of Campinas)
 * André Tacioli (State University of Campinas)
 
-{% include figure image_path="/assets/images/ARACA-workshop-2022.jpg" alt="ARACA workshop 2022" caption="First ARAÇÁ workshop, January 2022, Rio de Janerio." %}
+{% include figure image_path="/assets/images/ARACA-workshop-2022.jpg" alt="ARACA workshop 2022" caption="First ARAÇÁ workshop, January 2022, Rio de Janeiro." %}
 ## Contact
 
 **Alexandre Antonelli**, Project leader  
