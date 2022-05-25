@@ -10,6 +10,7 @@ In January 2022 we organised a first workshop to bring together interested resea
 * Renato Crespo (Rio de Janeiro Botanical Garden) 
 * Thiago Dorigo (independent)
 * André Freitas (State University of Campinas)
+* Samantha Koehler (State University of Campinas)
 * Paula Leitman (Rio de Janeiro Botanical Garden)
 * Adriana Lobão (Federal Fluminense University)
 * Larissa Trierveiler Pereira (Federal University of São Carlos)
@@ -28,4 +29,7 @@ paulaleitman [at] gmail.com
 
 **Rhian Smith**, Coordinator, UK  
 rhian.smith [at] kew.org
+
+**Allison Perrigo**, Coordinator, Sweden  
+allison.perrigo [at] bioenv.gu.se
 
