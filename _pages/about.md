@@ -21,7 +21,7 @@ In January 2022 we organised a first workshop to bring together interested resea
 {% include figure image_path="/assets/images/ARACA-workshop-2022.jpg" alt="ARACA workshop 2022" caption="First ARAÇÁ workshop, January 2022, Rio de Janeiro." %}
 ## Contact
 
-**Alexandre Antonelli**, Project leader  
+**Alexandre and Anna Antonelli**, Founders and Project leaders  
 a.antonelli [at] kew.org
 
 **Paula Leitman**, Coordinator, Brazil  
