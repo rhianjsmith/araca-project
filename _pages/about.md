@@ -27,7 +27,7 @@ a.antonelli [at] kew.org
 **Paula Leitman**, Coordinator, Brazil  
 paulaleitman [at] gmail.com
 
-**Rhian Smith**, Coordinator, UK  
+**Rhian Smith**, Antonelli Lab Research Coordinator, UK  
 rhian.smith [at] kew.org
 
 **Allison Perrigo**, Coordinator, Sweden  
