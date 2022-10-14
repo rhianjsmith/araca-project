@@ -24,12 +24,12 @@ In January 2022 we organised a first workshop to bring together interested resea
 **Alexandre and Anna Antonelli**, Founders and Project leaders  
 a.antonelli [at] kew.org
 
-**Paula Leitman**, Coordinator, Brazil  
+**Paula Leitman**, LifePlan Project Coordinator, Brazil  
 paulaleitman [at] gmail.com
 
-**Rhian Smith**, Coordinator, UK  
+**Rhian Smith**, Antonelli Lab Research Coordinator, UK  
 rhian.smith [at] kew.org
 
-**Allison Perrigo**, Coordinator, Sweden  
+**Allison Perrigo**, Antonelli Lab Research Coordinator, Sweden  
 allison.perrigo [at] bioenv.gu.se
 
